@@ -1,4 +1,4 @@
-## Question: 69.Srt(x) 
+## Question: 69.Sqrt(x) 
 
 ### Concept Learned
 - Operators 
