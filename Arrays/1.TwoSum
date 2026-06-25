@@ -1,11 +1,3 @@
-## Question: 1- Two Sum 
-
-### Concept Learned
-- Time Complexity O(n)
-
-### What this question taught me
--How to actually get output of values in array 
-
 class Solution {
     public int[] twoSum(int[] nums, int target) {
         for(int i = 0 ; i<nums.length ; i++){
