@@ -1,3 +1,10 @@
+## Question: 3945.Digit Frequency Score
+
+### Concept Learned
+- Sum of nth Number
+
+### What this question taught me
+- how to calculate sum of nth number 
 class Solution {
     public int digitFrequencyScore(int n) {
         int sum =0;
