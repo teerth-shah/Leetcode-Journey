@@ -1,7 +1,7 @@
 ## Question: 3945.Digit Frequency Score
 
 ### Concept Learned
-- Sum of nth Number
+- Sum of nth Number concept
 
 ### What this question taught me
 - how to calculate sum of nth number 
